@@ -1,0 +1,121 @@
+.sidr {
+    background: #fcfcfc;
+    display: block;
+    position: fixed;
+    top: 0;
+    height: 100%;
+    z-index: 9999;
+    width: 320px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.1);
+}
+.sidr.right {
+    left: auto;
+    right: -320px;
+}
+.sidr.left {
+    left: -320px;
+    right: auto;
+}
+@media (min-width: 576px) {
+    .sidr {
+        width: 380px;
+    }
+    .sidr.right {
+        right: -380px;
+    }
+    .sidr.left {
+        left: -380px;
+    }
+}
+.sidr {
+    padding: 20px;
+}
+.admin-bar .sidr  {
+    padding-top: 40px;
+}
+.icon-sidr{
+    position: relative;
+    width: 60px;
+}
+/* Hamburger 1 */
+#hamburger-one *,
+#hamburger-one *:before {
+    transition: .25s ease-in-out;
+}
+#hamburger-one {
+    display: block;
+    margin: 15px auto;
+    height: 30px;
+    position: relative;
+    cursor: pointer;
+}
+#hamburger-one span {
+    display: block;
+    position: absolute;
+    left: 14px;
+    height: 2px;
+    background: #fff;
+}
+#hamburger-one span:before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: -14px;
+    height: 4px;
+    width: 4px;
+    background: #fff;
+    border-radius: 100%;
+}
+#hamburger-one span:nth-of-type(1) {
+    width: 40px;
+    top: 0px;
+}
+#hamburger-one span:nth-of-type(2) {
+    width: 30px;
+    top: 8px;
+}
+#hamburger-one span:nth-of-type(3) {
+    width: 25px;
+    top: 16px;
+}
+#hamburger-one span:nth-of-type(4) {
+    width: 35px;
+    top: 24px;
+}
+#hamburger-one:hover span:nth-of-type(1) {
+    width: 46px;
+}
+#hamburger-one:hover span:nth-of-type(2) {
+    width: 36px;
+}
+#hamburger-one:hover span:nth-of-type(3) {
+    width: 21px;
+}
+#hamburger-one:hover span:nth-of-type(4) {
+    width: 41px;
+}
+#hamburger-one.active span {
+    top: 15px;
+    width: 30px !important;
+    transform: rotate(45deg);
+}
+#hamburger-one.active span:before {
+    left: 0;
+    transform: rotate(90deg);
+    width: 100%;
+    height: 2px;
+    border-radius: 0;
+}
+.sidr-offcanvas-close {
+    display: block;
+    margin-bottom: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 14px;
+}

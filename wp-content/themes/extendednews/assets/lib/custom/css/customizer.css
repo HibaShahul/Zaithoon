@@ -1,0 +1,92 @@
+.color-scheme-picker {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin: -15px 0 0 -15px;
+    padding-top: 10px;
+}
+
+.color-scheme-label {
+    display: block;
+    line-height: 1;
+    margin: 15px 0 0 15px;
+    width: calc(50% - 15px);
+}
+
+.color-scheme-panel {
+    border: 2px solid #e1e1e3;
+    border-radius: 5px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: flex;
+    justify-content: stretch;
+    margin: 0;
+    overflow: hidden;
+    transition: border-color .15s linear;
+}
+
+.color-scheme-picker .color-scheme-label:hover .color-scheme-panel,
+.color-scheme-picker .color-scheme-label input:focus ~ .color-scheme-panel,
+.color-scheme-picker .color-scheme-label input:checked + .color-scheme-panel {
+    border-color: #2885bb;
+}
+
+.color-scheme-panel .color-scheme-stripe {
+    height: 80px;
+    width: 100%;
+}
+
+.color-scheme-picker .color-scheme-title {
+    display: block;
+    font-weight: 500;
+    margin-top: 6px;
+}
+
+.extendednews-type-radio .radio-labels {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.extendednews-type-radio .radio-labels .bg-color-label {
+    width: 50%;
+}
+
+.extendednews-type-radio .radio-labels .bg-color-label input[type=radio] {
+    position: absolute;
+    z-index: -1;
+}
+
+.extendednews-type-radio .radio-labels:hover .bg-color-label,
+.extendednews-type-radio .radio-labels input:focus ~ .color-scheme-panel,
+.extendednews-type-radio .radio-labels input:checked + .color-scheme-panel {
+    border-color: #2885bb;
+}
+
+.theme-info-icon{
+    margin-top: 10px;
+}
+
+.theme-info-icon .icon-notice-wrap{
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.theme-info-icon .icon-notice-wrap .dashicons {
+    font-size: 22px;
+    margin-right: 10px;
+}
+
+.theme-info-icon .icon-notice-wrap span:not(.dashicons){
+    font-size: 12px;
+    filter: alpha(opacity=54);
+    opacity: 0.54;
+}
+span.customize-control-title-custom {
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    display: block;
+    background: #1ea2f1;
+    padding: 14px 0;
+    color: #fff;
+}

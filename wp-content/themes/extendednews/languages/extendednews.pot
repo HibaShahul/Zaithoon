@@ -1,0 +1,1788 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ExtendedNews\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-29 14:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.4; wp-5.8.1\n"
+"X-Domain: extendednews"
+
+#: inc/template-tags.php:142
+msgid " Ago"
+msgstr ""
+
+#: inc/customizer/custom-classes.php:466
+msgid " Available on Premium Version."
+msgstr ""
+
+#. %d: ID of a post.
+#: classes/class-walker-menu.php:76
+#, php-format
+msgid "#%d (no title)"
+msgstr ""
+
+#: inc/custom-functions.php:337
+msgid "-- Select Category --"
+msgstr ""
+
+#: inc/custom-functions.php:54
+msgid "-- Select Page --"
+msgstr ""
+
+#: inc/widgets/cat-posts.php:98 inc/widgets/featured-category.php:85
+#: inc/widgets/list-posts.php:72 inc/widgets/post-grid.php:75
+#: inc/widgets/tiles.php:72
+msgid "2"
+msgstr ""
+
+#: inc/widgets/cat-posts.php:99 inc/widgets/featured-category.php:86
+#: inc/widgets/list-posts.php:73 inc/widgets/post-grid.php:76
+#: inc/widgets/tiles.php:73
+msgid "3"
+msgstr ""
+
+#: inc/widgets/post-grid.php:77 inc/widgets/tiles.php:74
+msgid "4"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:312
+msgid "404 Not Found"
+msgstr ""
+
+#: classes/plugin-classes.php:31
+msgid "Activate"
+msgstr ""
+
+#: classes/plugin-classes.php:129
+msgid "Activated"
+msgstr ""
+
+#: functions.php:266
+msgid "Active"
+msgstr ""
+
+#: inc/customizer/header.php:79
+msgid "AD Image Link"
+msgstr ""
+
+#: inc/customizer/repeater.php:48
+msgid "Add New Section"
+msgstr ""
+
+#: inc/widgets/widgets.php:19 inc/widgets/widgets.php:29
+#: inc/widgets/widgets.php:39 inc/widgets/widgets.php:64
+#: inc/widgets/widgets.php:78 inc/widgets/widgets.php:117
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer/customizer.php:167 inc/customizer/repeater.php:17
+#: inc/customizer/sanitize.php:230
+msgid "Advertise Block"
+msgstr ""
+
+#: inc/customizer/repeater.php:108
+#: template-parts/components/advertise-block.php:20
+msgid "Advertise Image"
+msgstr ""
+
+#: inc/customizer/repeater.php:114
+msgid "Advertise Image Link"
+msgstr ""
+
+#: inc/customizer/pagination.php:37
+msgid "Ajax Auto Load"
+msgstr ""
+
+#: inc/customizer/pagination.php:36
+msgid "Ajax Load More Button"
+msgstr ""
+
+#: inc/metabox.php:275 inc/customizer/single.php:64
+msgid "Ajax Load Next 3 Posts Contents"
+msgstr ""
+
+#: template-parts/components/info-block.php:187
+msgid "All"
+msgstr ""
+
+#: inc/widgets/carousel.php:49 inc/widgets/cat-posts.php:61
+#: inc/widgets/cat-posts.php:72 inc/widgets/cat-posts.php:83
+#: inc/widgets/featured-category.php:58 inc/widgets/featured-category.php:68
+#: inc/widgets/featured-category.php:78 inc/widgets/list-posts.php:57
+#: inc/widgets/post-grid.php:60 inc/widgets/recent-post.php:49
+#: inc/widgets/slider.php:49 inc/widgets/tiles.php:57
+msgid "All Categories"
+msgstr ""
+
+#: inc/customizer/default.php:101
+msgid "All rights reserved."
+msgstr ""
+
+#: inc/metabox.php:156 inc/metabox.php:199
+msgid "Appearance Layout"
+msgstr ""
+
+#: inc/metabox.php:101
+msgid "Appearance Settings"
+msgstr ""
+
+#: inc/customizer/post.php:95
+msgid "Apply Default Format"
+msgstr ""
+
+#: inc/customizer/post.php:96
+msgid "Apply Time Age Format"
+msgstr ""
+
+#: inc/customizer/layout.php:77
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer/layout.php:13
+msgid "Archive Settings"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:313
+msgid "Archives"
+msgstr ""
+
+#: classes/about-render.php:96 inc/customizer/post.php:13
+msgid "Article Meta Settings"
+msgstr ""
+
+#: inc/widgets/author.php:62
+msgid "Author Image:"
+msgstr ""
+
+#: inc/customizer/post.php:138
+msgid "Autoplay Disable"
+msgstr ""
+
+#: inc/customizer/post.php:137
+msgid "Autoplay Enable"
+msgstr ""
+
+#: inc/customizer/repeater.php:216
+msgid "Background Color"
+msgstr ""
+
+#: classes/about-render.php:29 inc/customizer/repeater.php:221
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/repeater.php:226
+msgid "Background Image Size"
+msgstr ""
+
+#: inc/metabox.php:37 inc/metabox.php:66
+msgid "Banner Layout"
+msgstr ""
+
+#: classes/about-render.php:259
+msgid ""
+"Behind every single customer support question stands a real person ready to "
+"fix the problem in real-time and guide you through."
+msgstr ""
+
+#: inc/customizer/default.php:87
+msgid "Block Title"
+msgstr ""
+
+#: inc/customizer/default.php:37
+msgid "Block Title One"
+msgstr ""
+
+#: inc/customizer/default.php:38
+msgid "Block Title Tab"
+msgstr ""
+
+#: inc/customizer/sanitize.php:272
+msgid "Blue"
+msgstr ""
+
+#: assets/lib/tgmpa/recommended-plugins.php:50
+msgid "Booster Extension"
+msgstr ""
+
+#: inc/metabox.php:353
+msgid "Booster Extension Plugin Content"
+msgstr ""
+
+#: inc/metabox.php:110
+msgid "Booster Extension Settings"
+msgstr ""
+
+#: inc/customizer/layout.php:34
+msgid "Boxed Layout"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:310
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/default.php:108
+msgid "Breaking News"
+msgstr ""
+
+#: inc/customizer/header.php:218
+msgid "Breaking News Ticker"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:309
+msgid "Browse:"
+msgstr ""
+
+#: inc/custom-functions.php:1409
+msgid "By "
+msgstr ""
+
+#: inc/customizer/customizer.php:168 inc/customizer/repeater.php:18
+#: inc/customizer/sanitize.php:231
+msgid "Carousel Block"
+msgstr ""
+
+#: inc/customizer/header.php:371
+msgid "Categories"
+msgstr ""
+
+#: inc/widgets/cat-posts.php:56
+msgid "Category 1"
+msgstr ""
+
+#: inc/widgets/cat-posts.php:67
+msgid "Category 2"
+msgstr ""
+
+#: inc/widgets/cat-posts.php:78
+msgid "Category 3"
+msgstr ""
+
+#: inc/term-meta.php:48 inc/term-meta.php:121
+msgid "Category Color"
+msgstr ""
+
+#: functions.php:264 inc/customizer/customizer.php:172
+#: inc/widgets/widget-base.php:250
+msgid "Choose Image"
+msgstr ""
+
+#: inc/customizer/header.php:366
+msgid "Choose Tags or Categories"
+msgstr ""
+
+#: inc/customizer/custom-classes.php:437
+msgid "Click hold and drag to re-order."
+msgstr ""
+
+#: inc/customizer/custom-classes.php:441
+msgid "Click to expand settings."
+msgstr ""
+
+#: footer.php:23 inc/custom-functions.php:1142
+#: inc/customizer/custom-classes.php:407
+msgid "Close"
+msgstr ""
+
+#: classes/about-render.php:48 inc/customizer/customizer.php:34
+msgid "Color Options"
+msgstr ""
+
+#: classes/about-render.php:53
+msgid "Color Scheme"
+msgstr ""
+
+#: classes/about-render.php:44 inc/customizer/customizer.php:74
+msgid "Color Settings"
+msgstr ""
+
+#. %s is the page number.
+#: assets/lib/breadcrumbs/breadcrumbs.php:319
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:85
+msgid "Comment Tab Title"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:81 inc/widgets/tab-posts.php:88
+msgid "Comments"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/custom-functions.php:1849
+msgid "Content Loading"
+msgstr ""
+
+#. %s: Name of current post.
+#: inc/pagination.php:176 template-parts/content-single.php:113
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/custom-functions.php:1406
+msgid "Copyright "
+msgstr ""
+
+#: classes/about-render.php:250
+msgid "Create a Ticket"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:835
+#: assets/lib/breadcrumbs/breadcrumbs.php:1264
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: functions.php:267 classes/plugin-classes.php:23
+msgid "Deactivate"
+msgstr ""
+
+#: classes/plugin-classes.php:120
+msgid "Deactivated"
+msgstr ""
+
+#: inc/custom-functions.php:2097 inc/metabox.php:296
+#: inc/customizer/post.php:115
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/layout.php:33
+msgid "Default Layout"
+msgstr ""
+
+#: inc/customizer/custom-classes.php:405
+msgid "Delete"
+msgstr ""
+
+#: inc/widgets/author.php:57
+msgid "Description:"
+msgstr ""
+
+#: inc/custom-functions.php:2113 inc/metabox.php:326
+msgid "Disable Autoplay"
+msgstr ""
+
+#: inc/metabox.php:254
+msgid "Disable Feature Image"
+msgstr ""
+
+#: inc/metabox.php:273 inc/customizer/single.php:62
+msgid "Disable Navigation"
+msgstr ""
+
+#: inc/metabox.php:379
+msgid "Disable Post Author Box"
+msgstr ""
+
+#: inc/metabox.php:372
+msgid "Disable Post Like Dislike"
+msgstr ""
+
+#: inc/metabox.php:400
+msgid "Disable Post Rating"
+msgstr ""
+
+#: inc/metabox.php:393
+msgid "Disable Post Reaction"
+msgstr ""
+
+#: inc/metabox.php:365
+msgid "Disable Post Read Time"
+msgstr ""
+
+#: inc/metabox.php:386
+msgid "Disable Post Social Share"
+msgstr ""
+
+#: inc/metabox.php:358
+msgid "Disable Post Views"
+msgstr ""
+
+#: classes/admin-notice.php:96
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/mega-menu/megamenu-custom-fields.php:14
+msgid "Display child category on dropdown"
+msgstr ""
+
+#: inc/mega-menu/megamenu-custom-fields.php:13
+msgid "Display recent post title from this category"
+msgstr ""
+
+#: inc/widgets/author.php:38
+msgid "Displays authors details in post."
+msgstr ""
+
+#: inc/widgets/category.php:45 inc/widgets/featured-category.php:46
+msgid "Displays categories and posts."
+msgstr ""
+
+#: inc/widgets/carousel.php:37 inc/widgets/cat-posts.php:48
+#: inc/widgets/list-posts.php:45 inc/widgets/post-grid.php:48
+#: inc/widgets/recent-post.php:37 inc/widgets/slider.php:37
+#: inc/widgets/tiles.php:45
+msgid ""
+"Displays post form selected category specific for popular post in sidebars."
+msgstr ""
+
+#: inc/widgets/social-link.php:45
+msgid "Displays Social share."
+msgstr ""
+
+#: inc/widgets/social-link.php:303
+msgid "Dribbble"
+msgstr ""
+
+#: inc/widgets/social-link.php:135
+msgid "Dribbble URL:"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:283
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer/repeater.php:124
+msgid "Enable Arrows"
+msgstr ""
+
+#: inc/custom-functions.php:2114 inc/metabox.php:324
+#: inc/customizer/repeater.php:134
+msgid "Enable Autoplay"
+msgstr ""
+
+#: inc/customizer/header.php:132
+msgid "Enable BG Overlay"
+msgstr ""
+
+#: inc/widgets/category.php:63
+msgid "Enable Category Description:"
+msgstr ""
+
+#: inc/widgets/recent-post.php:52
+msgid "Enable Counter:"
+msgstr ""
+
+#: inc/customizer/top-header.php:43
+msgid "Enable Current Date"
+msgstr ""
+
+#: inc/customizer/repeater.php:129
+msgid "Enable Dot"
+msgstr ""
+
+#: inc/customizer/header.php:117
+msgid "Enable Fixed BG"
+msgstr ""
+
+#: inc/customizer/single.php:78
+msgid "Enable Fixed Floating Next/Previous Articles"
+msgstr ""
+
+#: inc/metabox.php:71 inc/metabox.php:187 inc/customizer/single.php:117
+msgid "Enable Header Overlay"
+msgstr ""
+
+#: inc/customizer/single.php:28
+msgid "Enable More Stories"
+msgstr ""
+
+#: inc/customizer/post.php:44
+msgid "Enable Posts Category"
+msgstr ""
+
+#: inc/customizer/post.php:29
+msgid "Enable Posts Date"
+msgstr ""
+
+#: inc/customizer/post.php:59
+msgid "Enable Posts Tags"
+msgstr ""
+
+#: inc/customizer/post.php:74
+msgid "Enable Posts Views"
+msgstr ""
+
+#: inc/customizer/preloader.php:30
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/customizer/header.php:167
+msgid "Enable Recent Posts on Search Area"
+msgstr ""
+
+#: inc/customizer/footer.php:66
+msgid "Enable Scroll to Top Button"
+msgstr ""
+
+#: inc/customizer/header.php:32
+msgid "Enable Search"
+msgstr ""
+
+#: inc/customizer/repeater.php:54
+msgid "Enable Section"
+msgstr ""
+
+#: inc/customizer/repeater.php:246
+msgid "Enable Sidebar"
+msgstr ""
+
+#: inc/widgets/slider.php:52
+msgid "Enable Slider Excerpt"
+msgstr ""
+
+#: inc/customizer/repeater.php:149
+msgid "Enable Tab"
+msgstr ""
+
+#: inc/customizer/header.php:234
+msgid "Enable Ticker Posts"
+msgstr ""
+
+#: inc/customizer/header.php:281
+msgid "Enable Ticker Posts Autoplay"
+msgstr ""
+
+#: inc/customizer/header.php:296
+msgid "Enable Ticker Wide Layout"
+msgstr ""
+
+#: inc/customizer/header.php:47
+msgid "Enable Top Advertisement Area"
+msgstr ""
+
+#: inc/customizer/header.php:195
+msgid "Enable Top Category on Search Area"
+msgstr ""
+
+#: inc/customizer/top-header.php:28
+msgid "Enable Top Header"
+msgstr ""
+
+#: inc/customizer/header.php:320
+msgid "Enable Trending Bar"
+msgstr ""
+
+#: inc/customizer/header.php:411
+msgid "Enable Trending News"
+msgstr ""
+
+#: inc/customizer/header.php:335 inc/customizer/repeater.php:82
+#: inc/customizer/repeater.php:119
+msgid "Enable Wide Layout"
+msgstr ""
+
+#: inc/customizer/layout.php:29
+msgid "Enable Wider Width Layout"
+msgstr ""
+
+#: 404.php:47
+msgid ""
+"Enjoy these stories about getting lost, losing things, and finding what you "
+"never knew you were looking for."
+msgstr ""
+
+#: classes/plugin-classes.php:69
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#. Name of the theme
+msgid "ExtendedNews"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"ExtendedNews is a fast, clean, modern-looking Best Responsive News Magazine "
+"WordPress theme. The theme is fully widgetized, so users can manage the "
+"content by using easy to use widgets. ExtendedNews includes a variety of "
+"useful customizer options for creating an aesthetically pleasing news site."
+msgstr ""
+
+#: classes/admin-notice.php:86
+msgid ""
+"ExtendedNews is now installed and ready to use. Are you looking for a better "
+"experience to set up your site?"
+msgstr ""
+
+#: classes/about.php:22
+msgid "ExtendedNews Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:98
+msgid "ExtendedNews Pro"
+msgstr ""
+
+#: inc/widgets/carousel.php:83
+msgid "ExtendedNews: Carousel Widget"
+msgstr ""
+
+#: inc/widgets/featured-category.php:92
+msgid "ExtendedNews: Category Call to action Widget"
+msgstr ""
+
+#: inc/widgets/post-grid.php:83
+msgid "ExtendedNews: Layout Grid"
+msgstr ""
+
+#: inc/widgets/list-posts.php:79
+msgid "ExtendedNews: Layout List"
+msgstr ""
+
+#: inc/widgets/cat-posts.php:105
+msgid "ExtendedNews: Layout Multiple Panel"
+msgstr ""
+
+#: inc/widgets/tiles.php:80
+msgid "ExtendedNews: Layout Tiles"
+msgstr ""
+
+#: inc/widgets/author.php:86
+msgid "ExtendedNews: Sidebar Author Widget"
+msgstr ""
+
+#: inc/widgets/category.php:75
+msgid "ExtendedNews: Sidebar Category Widget"
+msgstr ""
+
+#: inc/widgets/recent-post.php:65
+msgid "ExtendedNews: Sidebar Recent Post Widget"
+msgstr ""
+
+#: inc/widgets/social-link.php:146
+msgid "ExtendedNews: Sidebar Social Widget"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:100
+msgid "ExtendedNews: Sidebar Tab Widget"
+msgstr ""
+
+#: inc/widgets/slider.php:80
+msgid "ExtendedNews: Slider Widget"
+msgstr ""
+
+#: classes/about-render.php:140
+msgid "Eye-catching, Lightweight, and Highly Customizable WordPress Theme"
+msgstr ""
+
+#: inc/widgets/social-link.php:175
+msgid "Facebook"
+msgstr ""
+
+#: inc/widgets/author.php:66 inc/widgets/social-link.php:55
+msgid "Facebook URL:"
+msgstr ""
+
+#: classes/plugin-classes.php:166 classes/plugin-classes.php:175
+msgid "Failed"
+msgstr ""
+
+#: inc/term-meta.php:11 inc/term-meta.php:73
+msgid "Feature Image"
+msgstr ""
+
+#: inc/metabox.php:245
+msgid "Feature Image Setting"
+msgstr ""
+
+#: inc/customizer/repeater.php:211
+msgid "Flip Column Right to Left"
+msgstr ""
+
+#: inc/customizer/footer.php:50
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: classes/about-render.php:111
+msgid "Footer Setting"
+msgstr ""
+
+#: inc/customizer/footer.php:13
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/widgets/widgets.php:115
+msgid "Footer Widget "
+msgstr ""
+
+#: inc/widgets/social-link.php:295
+msgid "Foursquare"
+msgstr ""
+
+#: inc/widgets/social-link.php:130
+msgid "FourSquare URL:"
+msgstr ""
+
+#: classes/about-render.php:15 inc/metabox.php:93
+#: inc/customizer/customizer.php:66
+msgid "General Settings"
+msgstr ""
+
+#: classes/admin-notice.php:88
+msgid "Getting started"
+msgstr ""
+
+#: inc/widgets/social-link.php:287
+msgid "GitHub"
+msgstr ""
+
+#: inc/widgets/social-link.php:125
+msgid "Github URL:"
+msgstr ""
+
+#: inc/custom-functions.php:2096 inc/custom-functions.php:2112
+#: inc/metabox.php:294 inc/metabox.php:322
+msgid "Global"
+msgstr ""
+
+#: inc/metabox.php:64 inc/metabox.php:70 inc/metabox.php:272
+msgid "Global Layout"
+msgstr ""
+
+#: inc/metabox.php:44
+msgid "Global sidebar"
+msgstr ""
+
+#: inc/customizer/layout.php:50
+msgid "Global Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/single.php:99
+msgid "Global Single Post Layout"
+msgstr ""
+
+#: inc/customizer/post.php:111
+msgid "Global Video Aspect Ratio"
+msgstr ""
+
+#: inc/customizer/post.php:133
+msgid "Global Video Autoplay"
+msgstr ""
+
+#: inc/custom-functions.php:507
+msgid "Header AD Image"
+msgstr ""
+
+#: inc/widgets/widgets.php:37
+msgid "Header Advertisement One"
+msgstr ""
+
+#: inc/customizer/header.php:99
+msgid "Header BG Size"
+msgstr ""
+
+#: classes/about-render.php:24
+msgid "Header Media"
+msgstr ""
+
+#: inc/metabox.php:178 inc/metabox.php:221
+msgid "Header Overlay"
+msgstr ""
+
+#: classes/about-render.php:81 inc/customizer/header.php:15
+msgid "Header Settings"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:311
+msgid "Home"
+msgstr ""
+
+#: inc/customizer/repeater.php:287
+msgid "Home Page Blocks"
+msgstr ""
+
+#: 404.php:36
+msgid "Homepage"
+msgstr ""
+
+#: classes/about-render.php:63 classes/about-render.php:67
+msgid "Homepage Content Section"
+msgstr ""
+
+#: inc/widgets/widgets.php:62
+msgid "Homepage Main Widget Area"
+msgstr ""
+
+#: inc/customizer/repeater.php:29
+msgid "Homepage Sections"
+msgstr ""
+
+#: inc/widgets/widgets.php:76
+msgid "Homepage Sidebar Widget Area"
+msgstr ""
+
+#: template-parts/header/header-content.php:50
+msgid "Horizontal"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:817
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.themeinwp.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.themeinwp.com/theme/extendednews"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:227 inc/template-tags.php:265
+msgid "In"
+msgstr ""
+
+#: inc/customizer/repeater.php:269
+msgid "Info"
+msgstr ""
+
+#: inc/widgets/social-link.php:199
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/author.php:81 inc/widgets/social-link.php:70
+msgid "Instagram URL:"
+msgstr ""
+
+#: classes/plugin-classes.php:34
+msgid "Install & Active"
+msgstr ""
+
+#: classes/admin-notice.php:91
+msgid "Install and activate recommended plugins"
+msgstr ""
+
+#: classes/plugin-classes.php:158
+msgid "Installed & Activated"
+msgstr ""
+
+#: inc/customizer/layout.php:98
+msgid "Inverse Image with Content"
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: classes/about-render.php:253
+msgid "Knowledge Base"
+msgstr ""
+
+#: inc/custom-functions.php:2100 inc/metabox.php:302
+#: inc/customizer/post.php:118
+msgid "Landscape"
+msgstr ""
+
+#: inc/customizer/header.php:103
+msgid "Large"
+msgstr ""
+
+#: inc/widgets/category.php:71
+msgid "Latest :"
+msgstr ""
+
+#: inc/customizer/customizer.php:164 inc/customizer/repeater.php:14
+#: inc/customizer/sanitize.php:227
+msgid "Latest Posts Block"
+msgstr ""
+
+#: inc/widgets/category.php:68
+msgid "Latest Text Label:"
+msgstr ""
+
+#: classes/about-render.php:106 inc/metabox.php:17 inc/metabox.php:25
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer/layout.php:55
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/metabox.php:54
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/widgets/social-link.php:191
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/widgets/author.php:76 inc/widgets/social-link.php:65
+msgid "Linkedin URL:"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:256
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: functions.php:201 inc/pagination.php:34
+msgid "Load More Posts"
+msgstr ""
+
+#: functions.php:203
+msgid "Loading..."
+msgstr ""
+
+#: classes/about-render.php:19
+msgid "Logo & Site Identity"
+msgstr ""
+
+#: classes/about-render.php:245
+msgid "Looking for help?"
+msgstr ""
+
+#: 404.php:34
+msgid "Maybe it’s out there, somewhere..."
+msgstr ""
+
+#: inc/customizer/header.php:102
+msgid "Medium"
+msgstr ""
+
+#: classes/about-render.php:34
+msgid "Menu Settings"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: assets/lib/breadcrumbs/breadcrumbs.php:321
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:783
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:800
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:834
+#: assets/lib/breadcrumbs/breadcrumbs.php:890
+#: assets/lib/breadcrumbs/breadcrumbs.php:1260
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/customizer/custom-classes.php:466
+msgid "More "
+msgstr ""
+
+#: inc/customizer/default.php:111
+msgid "More Stories"
+msgstr ""
+
+#: inc/customizer/single.php:43
+msgid "More Stories Section Title"
+msgstr ""
+
+#: functions.php:232
+msgid "Mute"
+msgstr ""
+
+#: inc/widgets/author.php:52
+msgid "Name:"
+msgstr ""
+
+#: inc/metabox.php:263
+msgid "Navigation Setting"
+msgstr ""
+
+#: inc/metabox.php:268
+msgid "Navigation Type"
+msgstr ""
+
+#: inc/customizer/customizer.php:171 inc/customizer/repeater.php:47
+msgid "New Section"
+msgstr ""
+
+#: inc/pagination.php:49 inc/pagination.php:59
+msgid "Newer posts"
+msgstr ""
+
+#: inc/custom-functions.php:557
+msgid "Next post"
+msgstr ""
+
+#: inc/custom-functions.php:601
+msgid "Next post:"
+msgstr ""
+
+#: inc/metabox.php:274 inc/customizer/single.php:63
+msgid "Next Previous Navigation"
+msgstr ""
+
+#: inc/customizer/pagination.php:34
+msgid "Next/Previous Method"
+msgstr ""
+
+#: inc/customizer/custom-classes.php:377
+msgid "No image selected"
+msgstr ""
+
+#: functions.php:202 inc/pagination.php:35
+msgid "No More Posts"
+msgstr ""
+
+#: inc/customizer/layout.php:56
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/metabox.php:59
+msgid "No sidebar"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:91
+msgid "No. of Comments:"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:55 inc/widgets/tab-posts.php:73
+msgid "No. of Posts:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/widgets/cat-posts.php:94 inc/widgets/featured-category.php:81
+#: inc/widgets/list-posts.php:68 inc/widgets/post-grid.php:71
+#: inc/widgets/tiles.php:68
+msgid "Number of Column:"
+msgstr ""
+
+#: inc/customizer/header.php:386
+msgid "Number of items"
+msgstr ""
+
+#: inc/widgets/carousel.php:67 inc/widgets/cat-posts.php:86
+#: inc/widgets/list-posts.php:60 inc/widgets/post-grid.php:63
+#: inc/widgets/recent-post.php:57 inc/widgets/slider.php:72
+#: inc/widgets/tiles.php:60
+msgid "Number of Posts:"
+msgstr ""
+
+#: inc/customizer/pagination.php:35
+msgid "Numeric Method"
+msgstr ""
+
+#: inc/widgets/widgets.php:27
+msgid "Offcanvas Widget"
+msgstr ""
+
+#: inc/pagination.php:47 inc/pagination.php:58
+msgid "Older posts"
+msgstr ""
+
+#: inc/widgets/widgets.php:105
+msgid "One"
+msgstr ""
+
+#: inc/customizer/footer.php:34
+msgid "One Column"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer/sanitize.php:276
+msgid "Orange"
+msgstr ""
+
+#. %s is the page number.
+#: assets/lib/breadcrumbs/breadcrumbs.php:317
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: classes/admin-notice.php:88
+msgid ""
+"page. It helps you get started and configure your upcoming website with ease."
+" Let's make it shine!"
+msgstr ""
+
+#: inc/custom-functions.php:2012 inc/pagination.php:182
+#: template-parts/content-single.php:120
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/pagination.php:30
+msgid "Pagination Method"
+msgstr ""
+
+#: classes/about-render.php:91 inc/customizer/pagination.php:13
+msgid "Pagination Settings"
+msgstr ""
+
+#: functions.php:231 template-parts/components/archive-content.php:43
+msgid "Pause"
+msgstr ""
+
+#: inc/customizer/sanitize.php:284
+msgid "Pink"
+msgstr ""
+
+#: inc/widgets/social-link.php:207
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widgets/social-link.php:75
+msgid "Pinterest URL:"
+msgstr ""
+
+#: functions.php:230 template-parts/components/archive-content.php:46
+msgid "Play"
+msgstr ""
+
+#: inc/customizer/repeater.php:247
+msgid ""
+"Please add widget into \"Homepage Sidebar Widget Area\" for sidebar content."
+msgstr ""
+
+#: inc/widgets/tab-posts.php:45 inc/widgets/tab-posts.php:52
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:49
+msgid "Popular Tab Title"
+msgstr ""
+
+#: inc/customizer/header.php:153
+msgid "Popup Search Settings"
+msgstr ""
+
+#: inc/custom-functions.php:2099 inc/metabox.php:300
+#: inc/customizer/post.php:117
+msgid "Portrait"
+msgstr ""
+
+#: inc/customizer/repeater.php:76
+msgid "Post Category"
+msgstr ""
+
+#: inc/customizer/repeater.php:187
+msgid "Post Category Four"
+msgstr ""
+
+#: inc/customizer/repeater.php:159
+msgid "Post Category One"
+msgstr ""
+
+#: inc/customizer/repeater.php:181
+msgid "Post Category Three"
+msgstr ""
+
+#: inc/customizer/repeater.php:170
+msgid "Post Category Two"
+msgstr ""
+
+#: inc/customizer/post.php:91
+msgid "Posted Date Format"
+msgstr ""
+
+#: inc/customizer/repeater.php:87
+msgid "Posts Per Page"
+msgstr ""
+
+#: inc/custom-functions.php:1410
+msgid "Powered by "
+msgstr ""
+
+#: inc/customizer/preloader.php:13
+msgid "Preloader Setting"
+msgstr ""
+
+#: inc/custom-functions.php:541
+msgid "Previous post"
+msgstr ""
+
+#: inc/custom-functions.php:600
+msgid "Previous post:"
+msgstr ""
+
+#: functions.php:305
+msgid "Primary Menu"
+msgstr ""
+
+#: classes/admin-notice.php:84
+msgid "Quick Setup"
+msgstr ""
+
+#: inc/custom-functions.php:2057
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/widgets/tab-posts.php:63 inc/widgets/tab-posts.php:70
+msgid "Recent"
+msgstr ""
+
+#: inc/customizer/default.php:134
+msgid "Recent Post"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:67
+msgid "Recent Tab Title"
+msgstr ""
+
+#: inc/customizer/repeater.php:109
+msgid "Recommended Image Size is 970x250 PX."
+msgstr ""
+
+#: classes/about-render.php:193
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/widgets/social-link.php:215
+msgid "Reddit"
+msgstr ""
+
+#: inc/widgets/social-link.php:80
+msgid "Reddit URL:"
+msgstr ""
+
+#: inc/customizer/header.php:181
+msgid "Related Posts Section Title"
+msgstr ""
+
+#: inc/customizer/custom-classes.php:383
+msgid "Remove"
+msgstr ""
+
+#: inc/widgets/widget-base.php:261
+msgctxt "Remove"
+msgid "X"
+msgstr ""
+
+#: inc/customizer/repeater.php:236
+msgid "Repeat Background Image"
+msgstr ""
+
+#: inc/customizer/layout.php:54
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/metabox.php:49
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/customizer/sanitize.php:280
+msgid "Royal Blue"
+msgstr ""
+
+#: inc/customizer/repeater.php:241
+msgid "Scroll with Page"
+msgstr ""
+
+#. %s: search query.
+#: inc/template-tags.php:377
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. %s is the search query.
+#: assets/lib/breadcrumbs/breadcrumbs.php:315
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/customizer/repeater.php:65
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/repeater.php:154
+msgid "Section Title One"
+msgstr ""
+
+#: inc/customizer/repeater.php:176
+msgid "Section Title Three"
+msgstr ""
+
+#: inc/customizer/repeater.php:165
+msgid "Section Title Two"
+msgstr ""
+
+#: inc/customizer/repeater.php:59
+msgid "Section Type"
+msgstr ""
+
+#: functions.php:265 inc/customizer/customizer.php:173
+msgid "Select"
+msgstr ""
+
+#: inc/widgets/cat-posts.php:59 inc/widgets/featured-category.php:56
+msgid "Select Category 1:"
+msgstr ""
+
+#: inc/widgets/cat-posts.php:70 inc/widgets/featured-category.php:66
+msgid "Select Category 2:"
+msgstr ""
+
+#: inc/widgets/cat-posts.php:81 inc/widgets/featured-category.php:76
+msgid "Select Category 3:"
+msgstr ""
+
+#: inc/widgets/carousel.php:47 inc/widgets/list-posts.php:55
+#: inc/widgets/post-grid.php:58 inc/widgets/recent-post.php:47
+#: inc/widgets/slider.php:47 inc/widgets/tiles.php:55
+msgid "Select Category:"
+msgstr ""
+
+#: inc/customizer/custom-classes.php:384 inc/widgets/widget-base.php:250
+msgid "Select Image"
+msgstr ""
+
+#: classes/class-walker-menu.php:120 inc/custom-functions.php:300
+msgid "Show sub menu"
+msgstr ""
+
+#: inc/widgets/widgets.php:17
+msgid "Sidebar"
+msgstr ""
+
+#: inc/metabox.php:125
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metabox.php:36 inc/metabox.php:65
+msgid "Simple Layout"
+msgstr ""
+
+#: inc/customizer/single.php:58
+msgid "Single Post Navigation Type"
+msgstr ""
+
+#: classes/about-render.php:101 inc/customizer/single.php:12
+msgid "Single Post Settings"
+msgstr ""
+
+#: header.php:45
+msgid "Skip to the content"
+msgstr ""
+
+#: inc/widgets/social-link.php:223
+msgid "Skype"
+msgstr ""
+
+#: inc/widgets/social-link.php:85
+msgid "Skype URL:"
+msgstr ""
+
+#: inc/widgets/carousel.php:75
+msgid "Slide to Show"
+msgstr ""
+
+#: inc/customizer/customizer.php:163 inc/customizer/repeater.php:12
+#: inc/customizer/sanitize.php:226
+msgid "Slider & Tab Block"
+msgstr ""
+
+#: inc/customizer/customizer.php:162 inc/customizer/repeater.php:13
+#: inc/customizer/sanitize.php:225
+msgid "Slider & Vertical Slider"
+msgstr ""
+
+#: inc/customizer/repeater.php:96
+msgid "Slider Area Title"
+msgstr ""
+
+#: inc/widgets/carousel.php:52 inc/widgets/slider.php:57
+msgid "Slider Arrows:"
+msgstr ""
+
+#: inc/widgets/carousel.php:62 inc/widgets/slider.php:67
+msgid "Slider Autoplay:"
+msgstr ""
+
+#: inc/customizer/customizer.php:165 inc/customizer/repeater.php:15
+#: inc/customizer/sanitize.php:228
+msgid "Slider Block"
+msgstr ""
+
+#: inc/widgets/carousel.php:57 inc/widgets/slider.php:62
+msgid "Slider Dots:"
+msgstr ""
+
+#: inc/customizer/repeater.php:70 inc/customizer/repeater.php:101
+msgid "Slider Post Category"
+msgstr ""
+
+#: inc/customizer/header.php:101
+msgid "Small"
+msgstr ""
+
+#: inc/widgets/social-link.php:231
+msgid "Snapchat"
+msgstr ""
+
+#: inc/widgets/social-link.php:90
+msgid "Snapchat URL:"
+msgstr ""
+
+#: functions.php:306
+msgid "Social Menu"
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: classes/plugin-classes.php:63
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/custom-functions.php:2098 inc/metabox.php:298
+#: inc/customizer/post.php:116
+msgid "Square"
+msgstr ""
+
+#: 404.php:46
+msgid "Still feeling lost? You’re not alone."
+msgstr ""
+
+#: inc/customizer/repeater.php:139
+msgid "Tab Area Title"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:41
+msgid "Tabbed widget."
+msgstr ""
+
+#: inc/customizer/header.php:370
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer/customizer.php:83
+msgid "Template Settings"
+msgstr ""
+
+#: classes/about-render.php:256
+msgid "Theme Documentation"
+msgstr ""
+
+#: classes/about-render.php:77 inc/customizer/customizer.php:58
+msgid "Theme Options"
+msgstr ""
+
+#: inc/custom-functions.php:1409
+msgid "Theme: "
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeInWP"
+msgstr ""
+
+#: inc/custom-functions.php:1409
+msgid "Themeinwp"
+msgstr ""
+
+#: inc/custom-functions.php:1409
+msgid "Themeinwp. "
+msgstr ""
+
+#: inc/widgets/widgets.php:111
+msgid "Three"
+msgstr ""
+
+#: inc/customizer/footer.php:36
+msgid "Three Column"
+msgstr ""
+
+#: inc/customizer/header.php:265
+msgid "Ticker Posts Category"
+msgstr ""
+
+#: inc/customizer/header.php:249
+msgid "Ticker Section Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:166 inc/customizer/repeater.php:16
+#: inc/customizer/sanitize.php:229
+msgid "Tiles Block"
+msgstr ""
+
+#: inc/widgets/cat-posts.php:53 inc/widgets/featured-category.php:51
+msgid "Title 1:"
+msgstr ""
+
+#: inc/widgets/cat-posts.php:64 inc/widgets/featured-category.php:61
+msgid "Title 2:"
+msgstr ""
+
+#: inc/widgets/cat-posts.php:75 inc/widgets/featured-category.php:71
+msgid "Title 3:"
+msgstr ""
+
+#: inc/widgets/author.php:43 inc/widgets/carousel.php:42
+#: inc/widgets/category.php:50 inc/widgets/list-posts.php:50
+#: inc/widgets/post-grid.php:53 inc/widgets/recent-post.php:42
+#: inc/widgets/slider.php:42 inc/widgets/social-link.php:50
+#: inc/widgets/tiles.php:50
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/category.php:55
+msgid "Top Categories:"
+msgstr ""
+
+#: inc/customizer/default.php:135
+msgid "Top Category"
+msgstr ""
+
+#: inc/customizer/header.php:209
+msgid "Top Category Section Title"
+msgstr ""
+
+#: inc/customizer/footer.php:30
+msgid "Top Footer Column Layout"
+msgstr ""
+
+#: inc/customizer/header.php:63
+msgid "Top Header AD Image"
+msgstr ""
+
+#: classes/about-render.php:86 inc/customizer/top-header.php:12
+msgid "Top Header Settings"
+msgstr ""
+
+#: inc/customizer/header.php:305
+msgid "Trending Bar Settings"
+msgstr ""
+
+#: inc/customizer/header.php:350
+msgid "Trending Bar Title"
+msgstr ""
+
+#: inc/customizer/default.php:105
+msgid "Trending News"
+msgstr ""
+
+#: inc/customizer/header.php:442
+msgid "Trending News Posts Category"
+msgstr ""
+
+#: inc/customizer/header.php:395
+msgid "Trending News Settings"
+msgstr ""
+
+#: inc/customizer/header.php:426
+msgid "Trending News Title"
+msgstr ""
+
+#: inc/customizer/default.php:118
+msgid "Trending Tags"
+msgstr ""
+
+#: inc/widgets/social-link.php:239
+msgid "Tumblr"
+msgstr ""
+
+#: inc/widgets/social-link.php:95
+msgid "Tumblr URL:"
+msgstr ""
+
+#: inc/widgets/social-link.php:247
+msgid "Twitch"
+msgstr ""
+
+#: inc/widgets/social-link.php:100
+msgid "Twitch URL:"
+msgstr ""
+
+#: inc/widgets/social-link.php:183
+msgid "Twitter"
+msgstr ""
+
+#: inc/widgets/author.php:71 inc/widgets/social-link.php:60
+msgid "Twitter URL:"
+msgstr ""
+
+#: inc/widgets/widgets.php:108
+msgid "Two"
+msgstr ""
+
+#: inc/customizer/footer.php:35
+msgid "Two Column"
+msgstr ""
+
+#: functions.php:233 template-parts/components/archive-content.php:93
+msgid "Unmute"
+msgstr ""
+
+#: inc/customizer/customizer.php:99
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: classes/admin-notice.php:95
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/widgets/widget-base.php:250
+msgid "Upload"
+msgstr ""
+
+#: inc/customizer/repeater.php:144
+msgid "Vertical Slide Title"
+msgstr ""
+
+#: inc/customizer/repeater.php:193
+msgid "Vertical Slider Post Category"
+msgstr ""
+
+#: inc/metabox.php:290 inc/customizer/repeater.php:199
+msgid "Video Aspect Ratio"
+msgstr ""
+
+#: inc/metabox.php:284
+msgid "Video Aspect Ration Setting"
+msgstr ""
+
+#: inc/metabox.php:312 inc/metabox.php:318 inc/customizer/repeater.php:205
+msgid "Video Autoplay"
+msgstr ""
+
+#: inc/widgets/list-posts.php:142 inc/widgets/post-grid.php:149
+#: inc/widgets/slider.php:157 inc/widgets/tiles.php:144
+#: template-parts/components/tiles-block.php:79
+msgid "View All"
+msgstr ""
+
+#: classes/admin-notice.php:94
+msgid "View Demo"
+msgstr ""
+
+#: inc/custom-functions.php:1474
+msgid "Views"
+msgstr ""
+
+#: inc/widgets/social-link.php:263
+msgid "Vimeo"
+msgstr ""
+
+#: inc/widgets/social-link.php:110
+msgid "Vimeo URL:"
+msgstr ""
+
+#: inc/widgets/social-link.php:311
+msgid "VK"
+msgstr ""
+
+#: inc/widgets/social-link.php:140
+msgid "VK URL:"
+msgstr ""
+
+#: classes/about-render.php:247
+msgid "We have some resources available to help you in the right direction."
+msgstr ""
+
+#: classes/admin-notice.php:88
+msgid "We've prepared a unique onboarding process through our"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: assets/lib/breadcrumbs/breadcrumbs.php:323
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:863
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/widgets/social-link.php:271
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/widgets/social-link.php:115
+msgid "Whatsapp URL:"
+msgstr ""
+
+#: inc/customizer/layout.php:35
+msgid "Wider Width Layout"
+msgstr ""
+
+#: inc/widgets/author.php:48
+msgid "Widget Background Image:"
+msgstr ""
+
+#: inc/customizer/customizer.php:169 inc/customizer/repeater.php:19
+#: inc/customizer/sanitize.php:232
+msgid "Widgets Area Block"
+msgstr ""
+
+#: inc/custom-functions.php:1410 inc/widgets/social-link.php:279
+msgid "WordPress"
+msgstr ""
+
+#: inc/widgets/social-link.php:120
+msgid "WordPress URL:"
+msgstr ""
+
+#: inc/custom-functions.php:1410
+msgid "WordPress."
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:833
+#: assets/lib/breadcrumbs/breadcrumbs.php:862
+#: assets/lib/breadcrumbs/breadcrumbs.php:889
+#: assets/lib/breadcrumbs/breadcrumbs.php:916
+#: assets/lib/breadcrumbs/breadcrumbs.php:1256
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: 404.php:35
+msgid "You can always find insightful stories on our"
+msgstr ""
+
+#: inc/widgets/social-link.php:255
+msgid "Youtube"
+msgstr ""
+
+#: inc/widgets/social-link.php:105
+msgid "Youtube URL:"
+msgstr ""
